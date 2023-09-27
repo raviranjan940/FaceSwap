@@ -3,18 +3,18 @@
 This is a Face Swapping Website created using Python, Deep Learning, and Computer Vision. The website allows users to upload two images: one for the source face and another for the target face. The deep learning model then swaps the faces in the images, producing a new image with the swapped faces.
 
 # Features
-Face swapping between two images.
-User-friendly web interface.
-Real-time processing using deep learning and computer vision.
-Option to save/download the swapped image.
+- Face swapping between two images.
+- User-friendly web interface.
+- Real-time processing using deep learning and computer vision.
+- Option to save/download the swapped image.
 
 # Requirements
-Python 3.x
-Flask (for creating the web application)
-OpenCV (for image processing)
-Deep Learning Framework (e.g., TensorFlow, PyTorch)
-Pretrained Face Recognition Model (e.g., Dlib, OpenFace)
-HTML/CSS/JavaScript knowledge for the web interface (if customizing)
+- Python 3.x
+- Flask (for creating the web application)
+- OpenCV (for image processing)
+- Deep Learning Framework (e.g., TensorFlow, PyTorch)
+- Pretrained Face Recognition Model (e.g., Dlib, OpenFace)
+- HTML/CSS/JavaScript knowledge for the web interface (if customizing)
 
 ### To use this project:
 - `git clone https://github.com/CaptaiN785/FaceSwap.git`
